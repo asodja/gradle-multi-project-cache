@@ -1,0 +1,4 @@
+rootProject.name = 'multi-project-cache'
+include 'library1'
+include 'library2'
+include 'web'
